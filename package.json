@@ -1,6 +1,6 @@
 {
-  "name": "galaxy-own-repo",
-  "version": "1.0.0",
+  "name": "galaxy-own-repo-alt",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/stevenxu-db/galaxy-own-repo.git"
+    "url": "git+https://github.com/stevenxu-db/galaxy-own-repo-alt.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/stevenxu-db/galaxy-own-repo/issues"
+    "url": "https://github.com/stevenxu-db/galaxy-own-repo-alt/issues"
   },
-  "homepage": "https://github.com/stevenxu-db/galaxy-own-repo#readme"
+  "homepage": "https://github.com/stevenxu-db/galaxy-own-repo-alt#readme"
 }

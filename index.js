@@ -1,1 +1,1 @@
-exports.name = 'galaxy-own-repo';
+exports.name = 'galaxy-own-repo-alt';
